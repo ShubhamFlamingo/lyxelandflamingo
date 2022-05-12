@@ -1,3 +1,3 @@
 # lyxelandflamingo
 this is lyxel and flamingo
-this is shubham sharma
+this is shubham sharma .net dev
